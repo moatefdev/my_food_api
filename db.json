@@ -1,0 +1,65 @@
+{
+  "grill": [
+    {
+      "itemName": "Chicken Grill",
+      "itemPrice": 60,
+      "itemImg": ""
+    },
+    {
+      "itemName": "Kofta",
+      "itemPrice": 100,
+      "itemImg": ""
+    },
+    {
+      "itemName": "Kabab",
+      "itemPrice": 100,
+      "itemImg": ""
+    }
+  ],
+  "fried": [
+    {
+      "itemName": "Fried Chicken",
+      "itemPrice": 30,
+      "itemImg": ""
+    },
+    {
+      "itemName": "Strips",
+      "itemPrice": 35,
+      "itemImg": ""
+    }
+  ],
+  "sandwiches": [
+    {
+      "itemName": "Burger",
+      "itemPrice": 50,
+      "itemImg": ""
+    },
+    {
+      "itemName": "Cheese Burger",
+      "itemPrice": 70,
+      "itemImg": ""
+    },
+    {
+      "itemName": "Chicken",
+      "itemPrice": 80,
+      "itemImg": ""
+    }
+  ],
+  "drinks": [
+    {
+      "itemName": "Coca Cola",
+      "itemPrice": 5,
+      "itemImg": ""
+    },
+    {
+      "itemName": "Pepsi",
+      "itemPrice": 50,
+      "itemImg": ""
+    },
+    {
+      "itemName": "7Up",
+      "itemPrice": 50,
+      "itemImg": ""
+    }
+  ]
+}
