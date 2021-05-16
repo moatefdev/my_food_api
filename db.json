@@ -4,24 +4,24 @@
     {
       "itemName": "Barbecue chicken",
       "itemPrice": 60,
-      "itemImg": "./imgs/barbecue-chicken.jpg"
+      "itemImg": "imgs/barbecue-chicken.jpg"
     },
     {
       "itemName": "Kofta",
       "itemPrice": 100,
-      "itemImg": "./imgs/kofta.jpg"
+      "itemImg": "imgs/kofta.jpg"
     },
     {
       "itemName": "Kebab",
       "itemPrice": 100,
-      "itemImg": "https://i.pinimg.com/564x/c1/7c/a6/c17ca6242af2b1ddf935629b7e604174.jpg"
+      "itemImg": "imgs/kebab.jpg"
     }
   ],
   "pizza": [
     {
       "itemName": "Pizza Margherita",
       "itemPrice": 50,
-      "itemImg": "./imgs/margherita.jpg"
+      "itemImg": "imgs/margherita.jpg"
     }
   ],
   "fried": [
