@@ -2,26 +2,26 @@
   "categories": ["grill", "pizza", "fried", "sandwiches", "drinks"],
   "grill": [
     {
-      "itemName": "Chicken Grill",
+      "itemName": "Barbecue chicken",
       "itemPrice": 60,
-      "itemImg": ""
+      "itemImg": "./imgs/barbecue-chicken.jpg"
     },
     {
       "itemName": "Kofta",
       "itemPrice": 100,
-      "itemImg": ""
+      "itemImg": "./imgs/kofta.jpg"
     },
     {
-      "itemName": "Kabab",
+      "itemName": "Kebab",
       "itemPrice": 100,
-      "itemImg": ""
+      "itemImg": "./imgs/kebab.jpg"
     }
   ],
   "pizza": [
     {
       "itemName": "Pizza Margherita",
       "itemPrice": 50,
-      "itemImg": ""
+      "itemImg": "./imgs/margherita.jpg"
     }
   ],
   "fried": [
