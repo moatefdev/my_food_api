@@ -4,24 +4,24 @@
     {
       "itemName": "Barbecue chicken",
       "itemPrice": 60,
-      "itemImg": "https://www.thespruceeats.com/thmb/mgghjeWktybcYG5_2Ky44sslDQc=/3648x3648/smart/filters:no_upscale()/traditional-shish-kebabs-335199-hero-01-f8046460cc3d4ffb99d17743465c7cd3.jpg"
+      "itemImg": "https://grillingsmokingliving.com/wp-content/uploads/2020/07/Grilled-Chicken-Drumsticks-5-1-500x500.jpg"
     },
     {
       "itemName": "Kofta",
       "itemPrice": 100,
-      "itemImg": "imgs/kofta.jpg"
+      "itemImg": "https://www.healthylifetrainer.com/wp-content/uploads/2020/10/Kofta-Kebab-Recipe-3-500x500.jpg"
     },
     {
       "itemName": "Kebab",
       "itemPrice": 100,
-      "itemImg": "imgs/kebab.jpg"
+      "itemImg": "https://i.pinimg.com/564x/c1/7c/a6/c17ca6242af2b1ddf935629b7e604174.jpg"
     }
   ],
   "pizza": [
     {
       "itemName": "Pizza Margherita",
       "itemPrice": 50,
-      "itemImg": "imgs/margherita.jpg"
+      "itemImg": "https://www.spendwithpennies.com/wp-content/uploads/2018/05/Easy-Margherita-Pizza-Recipe-1-of-1-4-500x500.jpg"
     }
   ],
   "fried": [
