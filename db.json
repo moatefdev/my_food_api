@@ -16,6 +16,13 @@
       "itemImg": ""
     }
   ],
+  "pizza": [
+    {
+      "itemName": "Pizza Margherita",
+      "itemPrice": 50,
+      "itemImg": ""
+    }
+  ],
   "fried": [
     {
       "itemName": "Fried Chicken",
