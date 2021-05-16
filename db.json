@@ -14,7 +14,7 @@
     {
       "itemName": "Kebab",
       "itemPrice": 100,
-      "itemImg": "./imgs/kebab.jpg"
+      "itemImg": "https://i.pinimg.com/564x/c1/7c/a6/c17ca6242af2b1ddf935629b7e604174.jpg"
     }
   ],
   "pizza": [
