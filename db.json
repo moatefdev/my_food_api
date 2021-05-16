@@ -1,4 +1,5 @@
 {
+  "categories": ["grill", "pizza", "fried", "sandwiches", "drinks"],
   "grill": [
     {
       "itemName": "Chicken Grill",
