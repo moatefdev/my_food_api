@@ -1,73 +1,77 @@
 {
   "categories": ["grill", "pizza", "fried", "sandwiches", "drinks"],
-  "grill": [
+  "items": [
     {
-      "itemName": "Barbecue chicken",
-      "itemPrice": 60,
-      "itemImg": "https://grillingsmokingliving.com/wp-content/uploads/2020/07/Grilled-Chicken-Drumsticks-5-1-500x500.jpg"
-    },
-    {
-      "itemName": "Kofta",
-      "itemPrice": 100,
-      "itemImg": "https://www.healthylifetrainer.com/wp-content/uploads/2020/10/Kofta-Kebab-Recipe-3-500x500.jpg"
-    },
-    {
-      "itemName": "Kebab",
-      "itemPrice": 100,
-      "itemImg": "https://i.pinimg.com/564x/c1/7c/a6/c17ca6242af2b1ddf935629b7e604174.jpg"
-    }
-  ],
-  "pizza": [
-    {
-      "itemName": "Pizza Margherita",
-      "itemPrice": 50,
-      "itemImg": "https://www.spendwithpennies.com/wp-content/uploads/2018/05/Easy-Margherita-Pizza-Recipe-1-of-1-4-500x500.jpg"
-    }
-  ],
-  "fried": [
-    {
-      "itemName": "Fried Chicken",
-      "itemPrice": 30,
-      "itemImg": ""
-    },
-    {
-      "itemName": "Strips",
-      "itemPrice": 35,
-      "itemImg": ""
-    }
-  ],
-  "sandwiches": [
-    {
-      "itemName": "Burger",
-      "itemPrice": 50,
-      "itemImg": ""
-    },
-    {
-      "itemName": "Cheese Burger",
-      "itemPrice": 70,
-      "itemImg": ""
-    },
-    {
-      "itemName": "Chicken",
-      "itemPrice": 80,
-      "itemImg": ""
-    }
-  ],
-  "drinks": [
-    {
-      "itemName": "Coca Cola",
-      "itemPrice": 5,
-      "itemImg": ""
-    },
-    {
-      "itemName": "Pepsi",
-      "itemPrice": 50,
-      "itemImg": ""
-    },
-    {
-      "itemName": "7Up",
-      "itemPrice": 50,
-      "itemImg": ""
+      "grill": [
+        {
+          "itemName": "Barbecue chicken",
+          "itemPrice": 60,
+          "itemImg": "https://grillingsmokingliving.com/wp-content/uploads/2020/07/Grilled-Chicken-Drumsticks-5-1-500x500.jpg"
+        },
+        {
+          "itemName": "Kofta",
+          "itemPrice": 100,
+          "itemImg": "https://www.healthylifetrainer.com/wp-content/uploads/2020/10/Kofta-Kebab-Recipe-3-500x500.jpg"
+        },
+        {
+          "itemName": "Kebab",
+          "itemPrice": 100,
+          "itemImg": "https://i.pinimg.com/564x/c1/7c/a6/c17ca6242af2b1ddf935629b7e604174.jpg"
+        }
+      ],
+      "pizza": [
+        {
+          "itemName": "Pizza Margherita",
+          "itemPrice": 50,
+          "itemImg": "https://www.spendwithpennies.com/wp-content/uploads/2018/05/Easy-Margherita-Pizza-Recipe-1-of-1-4-500x500.jpg"
+        }
+      ],
+      "fried": [
+        {
+          "itemName": "Fried Chicken",
+          "itemPrice": 30,
+          "itemImg": ""
+        },
+        {
+          "itemName": "Strips",
+          "itemPrice": 35,
+          "itemImg": ""
+        }
+      ],
+      "sandwiches": [
+        {
+          "itemName": "Burger",
+          "itemPrice": 50,
+          "itemImg": ""
+        },
+        {
+          "itemName": "Cheese Burger",
+          "itemPrice": 70,
+          "itemImg": ""
+        },
+        {
+          "itemName": "Chicken",
+          "itemPrice": 80,
+          "itemImg": ""
+        }
+      ],
+      "drinks": [
+        {
+          "itemName": "Coca Cola",
+          "itemPrice": 5,
+          "itemImg": ""
+        },
+        {
+          "itemName": "Pepsi",
+          "itemPrice": 50,
+          "itemImg": ""
+        },
+        {
+          "itemName": "7Up",
+          "itemPrice": 50,
+          "itemImg": ""
+        }
+      ]
     }
   ]
 }
