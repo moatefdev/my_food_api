@@ -17,6 +17,16 @@
           "itemName": "Kebab",
           "itemPrice": 100,
           "itemImg": "https://i.pinimg.com/564x/c1/7c/a6/c17ca6242af2b1ddf935629b7e604174.jpg"
+        },
+        {
+          "itemName": "Tarb",
+          "itemPrice": 100,
+          "itemImg": "https://images.akhbarelyom.com/images/images/large/20200730173922779.jpg"
+        },
+        {
+          "itemName": "Dany",
+          "itemPrice": 100,
+          "itemImg": "https://uaecraftswomen.com/wp-content/uploads/2020/03/%D9%84%D8%AD%D9%85-%D9%85%D8%B4%D9%88%D9%8A.jpg"
         }
       ],
       "pizza": [
@@ -26,16 +36,26 @@
           "itemImg": "https://www.spendwithpennies.com/wp-content/uploads/2018/05/Easy-Margherita-Pizza-Recipe-1-of-1-4-500x500.jpg"
         }
       ],
-      "fried": [
+      "chicken": [
         {
-          "itemName": "Fried Chicken",
-          "itemPrice": 30,
-          "itemImg": ""
+          "itemName": "Tikka",
+          "itemPrice": 40,
+          "itemImg": "https://i.ndtvimg.com/i/2017-08/chicken-tikka_650x400_71502696435.jpg"
         },
         {
           "itemName": "Strips",
           "itemPrice": 35,
-          "itemImg": ""
+          "itemImg": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Strips.jpg"
+        },
+        {
+          "itemName": "Broasted Chicken",
+          "itemPrice": 35,
+          "itemImg": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/vunw0hqro3ymzsfcgauw"
+        },
+        {
+          "itemName": "Fried Wings",
+          "itemPrice": 35,
+          "itemImg": "https://easychickenrecipes.com/wp-content/uploads/2018/11/collage.best-fried-buffalo-chicken-wings-gluten-free-4-of-12.jpg"
         }
       ],
       "sandwiches": [
