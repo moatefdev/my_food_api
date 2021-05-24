@@ -102,16 +102,19 @@
       ],
       "drinks": [
         {
+          "itemId": 1,
           "itemName": "Coca Cola",
           "itemPrice": 5,
           "itemImg": "http://static1.squarespace.com/static/5ca3b2217980b3338106d9bf/5e9d799f49f74c43e7d4d9e2/5e8c709317a9377ba007b6af/1592901778463/Coca+Cola+300ml+Can.png?format=1500w"
         },
         {
+          "itemId": 2,
           "itemName": "Pepsi",
           "itemPrice": 5,
           "itemImg": "https://images.squarespace-cdn.com/content/v1/54e22d6be4b00617871820ca/1594319961482-MD9RD9JAG3EI3ACPE6KT/ke17ZwdGBToddI8pDm48kL6Gv8ZO6JV7Z4ifWuMgNDp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfwSeTrjJXgRaFvmKmLknDKbcrwOXCbPKyMoGFGIZIboOpYghpI-Ha_TwZsqqmJXng/PKG-33564_00013_1.png?format=500w"
         },
         {
+          "itemId": 3,
           "itemName": "7Up",
           "itemPrice": 5,
           "itemImg": "https://homiez.me/images/detailed/2951/7UP-Original-Lemon-and-Lime-Soft-Drink-Can-330ml-R.jpg"
