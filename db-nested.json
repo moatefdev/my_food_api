@@ -25,7 +25,7 @@
           "itemId": 4,
           "itemName": "Tarb",
           "itemPrice": 100,
-          "itemImg": "https://lh3.googleusercontent.com/proxy/wn_Y6xz6YLyjxL_MVMF4oR8HYNscEz7P3ppCHF3ljGisY1H5xQ2oAwC8zxMyfaOWwoOZCMF0VXUeQ5q-tiAXRvJLvFuRZGTtqG-pUDHrkWsJ5E0u"
+          "itemImg": "https://setaat.com/uploads/max_uploads/2019/05/1557605574.webp"
         },
         {
           "itemId": 5,
@@ -40,25 +40,41 @@
           "itemName": "Pizza Margherita",
           "itemPrice": 50,
           "itemImg": "https://www.spendwithpennies.com/wp-content/uploads/2018/05/Easy-Margherita-Pizza-Recipe-1-of-1-4-500x500.jpg"
+        },
+        {
+          "itemId": 2,
+          "itemName": "Pizza Chicken",
+          "itemPrice": 50,
+          "itemImg": "https://bluebowlrecipes.com/wp-content/uploads/2019/05/barbecue-chicken-pizza-0917-500x500.jpg"
+        },
+        {
+          "itemId": 3,
+          "itemName": "Pizza Burger",
+          "itemPrice": 50,
+          "itemImg": "https://www.carusosamerican.com/images/body/6_lg.jpg"
         }
       ],
-      "chicken": [
+      "fried": [
         {
+          "itemId": 1,
           "itemName": "Tikka",
           "itemPrice": 40,
           "itemImg": "https://i.ndtvimg.com/i/2017-08/chicken-tikka_650x400_71502696435.jpg"
         },
         {
+          "itemId": 2,
           "itemName": "Strips",
           "itemPrice": 35,
           "itemImg": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Strips.jpg"
         },
         {
+          "itemId": 3,
           "itemName": "Broasted Chicken",
           "itemPrice": 35,
           "itemImg": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/vunw0hqro3ymzsfcgauw"
         },
         {
+          "itemId": 4,
           "itemName": "Fried Wings",
           "itemPrice": 35,
           "itemImg": "https://easychickenrecipes.com/wp-content/uploads/2018/11/collage.best-fried-buffalo-chicken-wings-gluten-free-4-of-12.jpg"
@@ -66,36 +82,39 @@
       ],
       "sandwiches": [
         {
+          "itemId": 1,
           "itemName": "Burger",
           "itemPrice": 50,
-          "itemImg": ""
+          "itemImg": "https://freepngimg.com/thumb/bacon/77400-king-whopper-hamburger-burgers-food-cheeseburger-fast.png"
         },
         {
+          "itemId": 2,
           "itemName": "Cheese Burger",
           "itemPrice": 70,
-          "itemImg": ""
+          "itemImg": "https://i8.amplience.net/i/traeger/20170524_Grilled-Southern-Pimento-Cheeseburger_RE_HE_M?w=500&sm=aspect&aspect=1:1&scaleFit=poi&$poi2$"
         },
         {
+          "itemId": 3,
           "itemName": "Chicken",
           "itemPrice": 80,
-          "itemImg": ""
+          "itemImg": "https://802492.smushcdn.com/1215052/wp-content/uploads/2020/12/4.png?lossy=0&strip=1&webp=1"
         }
       ],
       "drinks": [
         {
           "itemName": "Coca Cola",
           "itemPrice": 5,
-          "itemImg": ""
+          "itemImg": "http://static1.squarespace.com/static/5ca3b2217980b3338106d9bf/5e9d799f49f74c43e7d4d9e2/5e8c709317a9377ba007b6af/1592901778463/Coca+Cola+300ml+Can.png?format=1500w"
         },
         {
           "itemName": "Pepsi",
-          "itemPrice": 50,
-          "itemImg": ""
+          "itemPrice": 5,
+          "itemImg": "https://images.squarespace-cdn.com/content/v1/54e22d6be4b00617871820ca/1594319961482-MD9RD9JAG3EI3ACPE6KT/ke17ZwdGBToddI8pDm48kL6Gv8ZO6JV7Z4ifWuMgNDp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfwSeTrjJXgRaFvmKmLknDKbcrwOXCbPKyMoGFGIZIboOpYghpI-Ha_TwZsqqmJXng/PKG-33564_00013_1.png?format=500w"
         },
         {
           "itemName": "7Up",
-          "itemPrice": 50,
-          "itemImg": ""
+          "itemPrice": 5,
+          "itemImg": "https://homiez.me/images/detailed/2951/7UP-Original-Lemon-and-Lime-Soft-Drink-Can-330ml-R.jpg"
         }
       ]
     }
