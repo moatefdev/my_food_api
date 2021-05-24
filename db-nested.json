@@ -1,5 +1,5 @@
 {
-  "categories": ["All", "grill", "pizza", "fried", "sandwiches", "drinks"],
+  "categories": ["grill", "pizza", "fried", "sandwiches", "drinks"],
   "items": [
     {
       "grill": [
